@@ -34,3 +34,6 @@ assertion.log
 
 # .venv
 .venv/
+
+# models
+models/
